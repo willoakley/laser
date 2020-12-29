@@ -55,6 +55,9 @@ Gcode previewers:
 - https://ncviewer.com/
 - https://nraynaud.github.io/webgcode/
 
+Other good docs links:
+- https://github.com/kovyrin/cubiio2
+
 ## Machine start-up:
 - Power on the machine
 - If the light is breathing green then it has connected to the WiFi. If not, Press the WPS botton on the machine till the flashing changes then press the WPS button on the router it should go green and lock.
